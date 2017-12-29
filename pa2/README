@@ -1,0 +1,27 @@
+// Jason Hetland
+// jhetland
+// pa2 README
+
+List.c
+Implements a doubly linked list from a list data structure. The list uses
+the cursor node to store the number of lines from Lex. The node struct is 
+defined in this file. 
+
+ListClient.c
+A test file. Unaltered. Given. 
+
+Lex.c
+Takes in two command arguments giving the names of the input and output
+file.The input file consist of a text file and the output file will
+consist of the lines from the input file arranged in alphabetical order.
+
+List.h
+This is the header file and contains the operations to be performed on the 
+list. These are the defintiions of the functions.
+
+Makefile
+Creates the executbale file of Lex
+
+README
+Table of contents
+

@@ -1,0 +1,30 @@
+List.c
+Implements a doubly linked list from a list data structure. The list uses
+the cursor node to store the number of lines from Lex. The node struct is
+defined in this file.
+
+List.h
+This is the header file and defines all the List operations being 
+performed on the list.
+
+Graph.c
+This contatins the Graph functions and implements BFS to search the graph 
+structure
+
+Graph.h
+This is the header file that defines all the graph operations being 
+performed on the graph.
+
+GraphTest.c
+This a test file to test out my List ADT and Graph ADT to see if the 
+operations are fully functional.
+
+FindPath.c
+This file has the main function and calls the Graph operations to 
+calculate the shortest path and the distance. 
+
+Makefile
+Creates an executable file for FindPath. Compiles files.
+
+README
+Table of contents. This file

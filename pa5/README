@@ -1,0 +1,28 @@
+README
+Table of Contents. This file
+
+Makefile
+Creates and executable jar file of FindComponents.c. Makes compiling 
+faster
+
+List.h
+Header file for the list functions. Defintions of List operations
+
+List.c
+Implements a doubly linked list from a list data structure. The list uses
+the cursor node to store the number of lines from Lex. The node struct is
+defined in this file.
+
+Graph.h
+This is a header file for the graph operations. It defines all the graph 
+operations in the ADT.
+
+Graph.c
+This contains the Graph ADT operations. Implements the DFS() function. 
+
+GraphTest.c
+This is a test file that test out my graph ADT operations. 
+
+FindComponents.c 
+Main program. Prints out the strongly connected components of the 
+vertices.  

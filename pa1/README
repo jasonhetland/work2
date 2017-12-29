@@ -1,0 +1,19 @@
+Jason Hetland
+
+List.java
+Implements a doubly linked list from a list data structure. The list uses 
+the cursor node to store the number of lines from Lex.
+
+ListClient.java
+A test file. Unaltered. 
+
+Lex.java
+Takes in two command arguments giving the names of the input and output 
+file.The input file consist of a text file and the output file will 
+consist of the lines from the input file arranged in alphabetical order.
+ 
+Makefile
+Creates the executbale file of Lex
+
+README
+Table of contents

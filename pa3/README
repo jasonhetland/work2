@@ -1,0 +1,26 @@
+List.java
+A list implements a double linked list. Uses cursor node to iterate 
+through the list. The list has entry objects that are in the matrix.
+
+Matrix.java
+Contains all the matrix operations. Implemented using an arrary of list 
+objects instead of ints like the last pa. It uses an entry class for the 
+entries of the matrix.
+
+Sparse.java
+Main program. Takes input and output filenames and outputs the result of 
+the matrices performing operations on them.
+
+MatrixTest.java
+Altered MatrixClient,java and added some of my own operations to test if 
+they worked on the matrix.
+
+ListTest.java
+A test file to test operations of the list. While building the ADT I 
+tested the operations in this file. 
+
+Makefile
+Builds an executable jar file. Helps compiling
+
+README
+This file
